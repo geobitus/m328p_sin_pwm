@@ -1,3 +1,8 @@
+/*
+ * Author: geobitus
+ * Date: 22-Mai-2023 07:58:14 PM
+ * Scope: Inverted SPWM with deadtime
+ */
 #include "spwm.c"
 
 static bool HWLP; /*'bool' outside or 'static uint8_t' inside function !critical!*/
