@@ -1,5 +1,5 @@
 /*
- * Author: geo
+ * Author: geobitus
  * Date: 22-Mai-2023 07:58:14 PM
  * Scope: Inverted SPWM with deadtime
  * IGBT switching time Ton=typ 0.8uS max 2uS  / Toff=typ 1.2 max2.8uS
